@@ -1,0 +1,18 @@
+id: IC9BC8BF4
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:28.720097
+last_modified: 2023-01-04 11:30:28.720107
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  7F44:
+    title: Words of Advice
+    base_file: 7F44.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
